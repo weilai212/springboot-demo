@@ -1,0 +1,5 @@
+target
+.idea
+*.log
+#/error.log
+!/error.log
